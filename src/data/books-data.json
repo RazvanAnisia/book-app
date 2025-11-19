@@ -1,0 +1,152 @@
+[
+  {
+    "title": "1984",
+    "description": "A dystopian novel exploring totalitarianism, surveillance, and the manipulation of truth.",
+    "image": "https://images.gr-assets.com/books/1348990566l/5470.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "description": "A classic novel addressing racial injustice and moral growth in the American South.",
+    "image": "https://images.gr-assets.com/books/1361975680l/2657.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "description": "A witty exploration of love, reputation, and class dynamics in Regency-era England.",
+    "image": "https://images.gr-assets.com/books/1320399351l/1885.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "description": "A tragic story about wealth, obsession, and the elusive American Dream.",
+    "image": "https://images.gr-assets.com/books/1490528560l/4671.jpg"
+  },
+  {
+    "title": "Moby-Dick",
+    "description": "A philosophical adventure following Captain Ahab’s obsessive quest for revenge on a white whale.",
+    "image": "https://images.gr-assets.com/books/1327940656l/153747.jpg"
+  },
+  {
+    "title": "War and Peace",
+    "description": "An epic novel blending history, philosophy, and personal drama during the Napoleonic Wars.",
+    "image": "https://images.gr-assets.com/books/1413215930l/656.jpg"
+  },
+  {
+    "title": "Crime and Punishment",
+    "description": "A psychological drama about guilt, morality, and redemption after a young man commits murder.",
+    "image": "https://images.gr-assets.com/books/1382846449l/7144.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "description": "A coming-of-age story capturing teenage rebellion, alienation, and identity.",
+    "image": "https://images.gr-assets.com/books/1398034300l/5107.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "description": "A futuristic novel examining technology, conformity, and engineered happiness.",
+    "image": "https://images.gr-assets.com/books/1575500032l/5129.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "description": "A sweeping fantasy epic about the fight against an ancient evil and the power of friendship.",
+    "image": "https://images.gr-assets.com/books/1566425108l/33.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "description": "A charming adventure story following Bilbo Baggins on an unexpected journey.",
+    "image": "https://images.gr-assets.com/books/1546071216l/5907.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "description": "A novel about resilience, morality, and love, following the life of an orphaned governess.",
+    "image": "https://images.gr-assets.com/books/1327867269l/10210.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "description": "A dark romantic tale of obsession and revenge set on the Yorkshire moors.",
+    "image": "https://images.gr-assets.com/books/1601806513l/6185.jpg"
+  },
+  {
+    "title": "The Odyssey",
+    "description": "Homer’s epic poem chronicling Odysseus’s perilous journey home after the Trojan War.",
+    "image": "https://images.gr-assets.com/books/1390173285l/1381.jpg"
+  },
+  {
+    "title": "The Iliad",
+    "description": "An ancient Greek epic depicting the final days of the Trojan War.",
+    "image": "https://images.gr-assets.com/books/1388180380l/1371.jpg"
+  },
+  {
+    "title": "Don Quixote",
+    "description": "A satirical yet heartfelt tale of a delusional knight and his loyal squire.",
+    "image": "https://images.gr-assets.com/books/1435054850l/3836.jpg"
+  },
+  {
+    "title": "The Divine Comedy",
+    "description": "Dante’s poetic journey through Hell, Purgatory, and Paradise.",
+    "image": "https://images.gr-assets.com/books/1327940733l/6653.jpg"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "description": "A profound exploration of faith, free will, and moral conflict within a troubled family.",
+    "image": "https://images.gr-assets.com/books/1427728126l/4934.jpg"
+  },
+  {
+    "title": "Anna Karenina",
+    "description": "A tragic story of love, societal pressure, and betrayal in imperial Russia.",
+    "image": "https://images.gr-assets.com/books/1391442077l/15823480.jpg"
+  },
+  {
+    "title": "Les Misérables",
+    "description": "A sweeping story of justice, redemption, and revolution in 19th-century France.",
+    "image": "https://images.gr-assets.com/books/1411852091l/24280.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "description": "A dystopian tale where books are outlawed and firemen burn them on sight.",
+    "image": "https://images.gr-assets.com/books/1383718290l/17470674.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "description": "A philosophical fable about following one’s dreams and the signs of the universe.",
+    "image": "https://images.gr-assets.com/books/1483412266l/865.jpg"
+  },
+  {
+    "title": "The Stranger",
+    "description": "An existential novel examining meaning, indifference, and moral responsibility.",
+    "image": "https://images.gr-assets.com/books/1349927872l/49552.jpg"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "description": "A historical drama set during the French Revolution, known for its themes of sacrifice and resurrection.",
+    "image": "https://images.gr-assets.com/books/1344922523l/1953.jpg"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "description": "A grand tale of betrayal, imprisonment, and calculated revenge.",
+    "image": "https://images.gr-assets.com/books/1386925655l/7126.jpg"
+  },
+  {
+    "title": "The Kite Runner",
+    "description": "A powerful story about friendship, guilt, and redemption set in Afghanistan.",
+    "image": "https://images.gr-assets.com/books/1484563181l/77203.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "description": "A touching novel narrated by Death, set in WWII Germany.",
+    "image": "https://images.gr-assets.com/books/1522157426l/19063.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "The beginning of a magical series following a young wizard destined for greatness.",
+    "image": "https://images.gr-assets.com/books/1474154022l/3.jpg"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "description": "A fantasy tale where four siblings discover a magical world ruled by a tyrant.",
+    "image": "https://images.gr-assets.com/books/1503250316l/100915.jpg"
+  },
+  {
+    "title": "The Road",
+    "description": "A bleak yet heartbreaking post-apocalyptic journey of a father and son.",
+    "image": "https://images.gr-assets.com/books/1439197219l/6288.jpg"
+  }
+]
