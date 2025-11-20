@@ -1,0 +1,53 @@
+.app-container {
+  margin: 20px auto;
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.book-list-title {
+  padding-left: 40px;
+}
+
+.book-list {
+  height: 85vh;
+  width: 900px;
+  margin-top: 40px;
+  overflow: scroll;
+}
+
+.add-book-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+  width: 400px;
+}
+
+.add-book-form input,
+.add-book-form textarea {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.add-btn {
+  padding: 8px 12px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-btn:hover {
+  background-color: #0056b3;
+}
+
+.validation-error {
+  color: red;
+}

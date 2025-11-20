@@ -42,7 +42,7 @@
   {
     "title": "Brave New World",
     "description": "A futuristic novel examining technology, conformity, and engineered happiness.",
-    "image": "https://images.gr-assets.com/books/1575500032l/5129.jpg"
+    "image": null
   },
   {
     "title": "The Lord of the Rings",
@@ -62,7 +62,7 @@
   {
     "title": "Wuthering Heights",
     "description": "A dark romantic tale of obsession and revenge set on the Yorkshire moors.",
-    "image": "https://images.gr-assets.com/books/1601806513l/6185.jpg"
+    "image": null
   },
   {
     "title": "The Odyssey",
@@ -72,17 +72,17 @@
   {
     "title": "The Iliad",
     "description": "An ancient Greek epic depicting the final days of the Trojan War.",
-    "image": "https://images.gr-assets.com/books/1388180380l/1371.jpg"
+    "image": null
   },
   {
     "title": "Don Quixote",
     "description": "A satirical yet heartfelt tale of a delusional knight and his loyal squire.",
-    "image": "https://images.gr-assets.com/books/1435054850l/3836.jpg"
+    "image": null
   },
   {
     "title": "The Divine Comedy",
-    "description": "Dante’s poetic journey through Hell, Purgatory, and Paradise.",
-    "image": "https://images.gr-assets.com/books/1327940733l/6653.jpg"
+    "description": "Dante's poetic journey through Hell, Purgatory, and Paradise.",
+    "image": null
   },
   {
     "title": "The Brothers Karamazov",
@@ -92,7 +92,7 @@
   {
     "title": "Anna Karenina",
     "description": "A tragic story of love, societal pressure, and betrayal in imperial Russia.",
-    "image": "https://images.gr-assets.com/books/1391442077l/15823480.jpg"
+    "image": null
   },
   {
     "title": "Les Misérables",
@@ -102,11 +102,11 @@
   {
     "title": "Fahrenheit 451",
     "description": "A dystopian tale where books are outlawed and firemen burn them on sight.",
-    "image": "https://images.gr-assets.com/books/1383718290l/17470674.jpg"
+    "image": null
   },
   {
     "title": "The Alchemist",
-    "description": "A philosophical fable about following one’s dreams and the signs of the universe.",
+    "description": "A philosophical fable about following one's dreams and the signs of the universe.",
     "image": "https://images.gr-assets.com/books/1483412266l/865.jpg"
   },
   {
@@ -122,12 +122,12 @@
   {
     "title": "The Count of Monte Cristo",
     "description": "A grand tale of betrayal, imprisonment, and calculated revenge.",
-    "image": "https://images.gr-assets.com/books/1386925655l/7126.jpg"
+    "image": null
   },
   {
     "title": "The Kite Runner",
     "description": "A powerful story about friendship, guilt, and redemption set in Afghanistan.",
-    "image": "https://images.gr-assets.com/books/1484563181l/77203.jpg"
+    "image": null
   },
   {
     "title": "The Book Thief",
@@ -142,7 +142,7 @@
   {
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "description": "A fantasy tale where four siblings discover a magical world ruled by a tyrant.",
-    "image": "https://images.gr-assets.com/books/1503250316l/100915.jpg"
+    "image": null
   },
   {
     "title": "The Road",
