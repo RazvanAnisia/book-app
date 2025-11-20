@@ -1,4 +1,4 @@
-# UP! Company app
+# Book library app
 
 - This is a React.js + Typescript app, bootstrapped together with [Vite](https://vite.dev/guide)
 - Uses [Vitest](https://vitest.dev/) + [React Testing library](https://testing-library.com/docs/react-testing-library/intro/) for testing.
@@ -13,3 +13,9 @@
 ## Unit tests
 
 - The project has some basic unit test that can be run locally with `npm run test` or `npm run test:watch`
+
+## Functionality
+
+- The app uses a static data source src/data/books-data.json to populate the list of books
+- New books can be added to the list
+- If a book image url is not present a placeholder will be displayed
